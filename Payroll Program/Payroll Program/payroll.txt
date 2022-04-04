@@ -1,0 +1,9 @@
+Employee Name: ................. Phyllis Hollingshead
+Total hours worked: ............ 50
+Gross pay for regular hours: ... $..400.00
+Gross pay for overtime hours: .. $..150.00
+Total gross pay: ............... $..550.00
+Retirement plan deduction: ..... $...33.00
+Insurance deduction: ........... $...75.00
+FICA taxes: .................... $..101.66
+Net pay: ....................... $..340.34
